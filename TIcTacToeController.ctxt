@@ -1,0 +1,7 @@
+#BlueJ class context
+comment0.target=TIcTacToeController
+comment0.text=\n\ Cass\ TIcTacToeController\ \n\ \n\ The\ controller\ part\ of\ the\ user-interface\ for\ the\ TicTacToe\ game,\ \n\ built\ from\ the\ Swing\ and\ AWT\ frameworks.\n\ \n\ This\ version\ of\ the\ controller\ is\ the\ listerner\ for\ the\ games\ GUI's\ buttons.\n\n\ @author\ Jason\ keah\n\ @version\ April\ 8,\ 2023\n
+comment1.params=model\ view
+comment1.target=TIcTacToeController(TicTacToeModel,\ TicTacToeView)
+comment1.text=\n\ Constructor\ for\ the\ Tictactoe\ Controller\ \n\ \n\ @\ param\ model\ The\ view\ class\ of\ the\ tictactoe\ frame\n\ @\ param\ view\ the\ model\ class\ of\ the\ tictactoe\ frame\n
+numComments=2

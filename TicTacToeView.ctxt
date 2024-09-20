@@ -1,0 +1,13 @@
+#BlueJ class context
+comment0.target=TicTacToeView
+comment0.text=\n\ Class\ TicTacToeView,\ The\ view\ part\ of\ the\ user-interface\ for\ the\ TicTacToe\ Game,\ \n\ built\ from\ the\ Swing\ and\ AWT\ frameworks.\n\n\ @author\ Jason\ Keah\n\ @version\ Version\ 1,\ April\ 8,\ 2023\n
+comment1.params=
+comment1.target=TicTacToeView()
+comment1.text=\n\ Constructor\ for\ objects\ of\ class\ TicTacToeView.\ builds\ the\ UI\ frame.\n
+comment2.params=listenForButtonClicks
+comment2.target=void\ buildBoard(java.awt.event.ActionListener)
+comment2.text=\n\ creates\ the\ action\ listeners\ for\ the\ board\ full\ of\ JButtons\n\ \n\ @\ param\ listenForButtonClicks,\ the\ action\ listener\ for\ the\ board\ \n
+comment3.params=listenForNewGame
+comment3.target=void\ addGameListener(java.awt.event.ActionListener)
+comment3.text=\n\ creates\ the\ action\ listeners\ for\ the\ new\ game\ button\ \n\ \n\ @\ param\ listenForNewGame,\ the\ action\ listener\ for\ the\ new\ game\ button\ \n\ \n
+numComments=4

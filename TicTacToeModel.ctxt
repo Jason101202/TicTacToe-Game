@@ -1,0 +1,15 @@
+#BlueJ class context
+comment0.target=TicTacToeModel
+comment0.text=\n\ Class\ TicTacToeModel\ .\n\n\ Models\ the\ squares\ for\ the\ tictactoe\ game\ seeing\ if\ there\ is\ any\ winners\ or\ \n\ ties\ in\ the\ game\ and\ resetting\ the\ board\ once\ a\ player\ has\ won\ or\ a\ tie\ has\n\ occured\n\ @author\ Jason\ keah\n\ @version\ april\ 8\ 2023\n
+comment1.params=
+comment1.target=TicTacToeModel()
+comment2.params=board
+comment2.target=void\ setBoard(java.util.ArrayList)
+comment2.text=\ Sets\ the\ board\ of\ JButtons\ for\ the\ model\ to\ use\ and\ organize\n\ \n\ @\ param\ board,\ the\ bpard\ of\ JButtons\ passed\ to\ model\n
+comment3.params=
+comment3.target=boolean\ haveWinner()
+comment3.text=\ Checks\ if\ there\ is\ a\ winner\ in\ the\ inputs\ of\ the\ board\ of\ JButton\n\ \n\ @\ return,\ true\ if\ there\ is\ a\ winner\ or\ false\ otherwise\n\ \n
+comment4.params=
+comment4.target=void\ gameResult()
+comment4.text=\n\ \ Disables\ the\ entire\ board\ once\ the\ game\ has\ reached\ a\ result\n
+numComments=5
